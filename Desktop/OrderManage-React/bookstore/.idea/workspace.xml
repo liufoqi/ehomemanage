@@ -15,6 +15,7 @@
     <session id="2006250399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -116,27 +117,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539084322234</updated>
-      <workItem from="1539084323977" duration="1261000" />
+      <workItem from="1539084323977" duration="1535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1261000" />
+    <option name="totallyTimeSpent" value="1535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="516" y="22" width="879" height="832" extended-state="0" />
     <layout>
-      <window_info id="npm" sideWeight="0.50213677" side_tool="true" visible="true" weight="0.24911033" />
+      <window_info id="npm" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.24911033" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49786323" visible="true" weight="0.24911033" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928468" visible="true" weight="0.24911033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3304721" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3304721" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
